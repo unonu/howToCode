@@ -45,11 +45,11 @@ computer's memory and we tell the computer to run it (don't worry about how we
 tell it just yet.) When the computer acknowledges what program it's supposed to
 run, it will go through the following chain of events:
 
--Load the code onto the CPU.
--Prepare the CPU to perform the instruction.
--Take in any inputs and make the ready to be accessed.
--Execute the instruction while allowing it access to the input values.
--store the output into memory.
+- Load the code onto the CPU.
+- Prepare the CPU to perform the instruction.
+- Take in any inputs and make the ready to be accessed.
+- Execute the instruction while allowing it access to the input values.
+- store the output into memory.
 
 This process can be referred to as the execution pipeline. It's simply just the
 order a program goes through to get a result. This result is typically called
@@ -255,9 +255,9 @@ use control structures, but just remember that control structures can get you
 out of any tough situations. There are three basic control structures that 99%
 of languages implement:
 
--The if-then-else statement
--The while loop
--The for loop
+- The if-then-else statement
+- The while loop
+- The for loop
 
 If-then-else
 ------------
@@ -467,23 +467,23 @@ the CPU, all programming languages have some commonalities. However, for the
 sake of time, I'll go ahead and give you a shortlist of the most popular
 languages (these aren't official by any means and in no particular order):
 
--C
--C++
--Python
--Java
--JavaScript
--Ruby
+- C
+- C++
+- Python
+- Java
+- JavaScript
+- Ruby
 
 And then some other really popular ones:
 
--C#
--Go
--Haskell
--Erlang
--PHP
--Lua
--Prolog
--Fortran
+- C#
+- Go
+- Haskell
+- Erlang
+- PHP
+- Lua
+- Prolog
+- Fortran
 
 Beyond these, the number of people actively using them drops off pretty quickly.
 All the time, you'll hear someone mention a new language that's great at this or
