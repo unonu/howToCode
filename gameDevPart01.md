@@ -2,27 +2,27 @@ How to Make Video Games Part I - Outline
 
 Index
 =====
-i.		Introduction/Goals
-ii.		Description of Tools/Platform
-iii.	Project Basics
-iv.		Lua Basics
-v.		Löve Basics
-vi.		Life Cycle of a Game
-vii.	Pong I (in which we make the ball)
-viii.	Pong II (in which we make the paddle)
-ix.		Pong III (in which we make the ball hit the paddle)
-x.		Pong IV (in which we make another paddle and keep score)
-xi.		Pong V (in which we add winning and losing)
-xii.	Graphics Basics
-xiii.	Sound Basics
-xiv.	Breakout I (in which we make a level)
-xv.		Breakout II (in which we make the player and the ball)
-xvi.	Breakout III (in which we make the bricks and scoring)
-xvii.	Breakout IV (in which we make pick-ups)
-xviii.	Breakout V (in which we make power-ups)
-xix.	Breakout VI (in which we add winning and losing)
-xx.		Breakout VII (in which we add graphics)
-xxi.	Tetris Challenge
+1.	Introduction/Goals
+2.	Description of Tools/Platform
+3.	Project Basics
+4.	Lua Basics
+5.	Löve Basics
+6.	Life Cycle of a Game
+7.	Pong I (in which we make the ball)
+8.	Pong II (in which we make the paddle)
+9.	Pong III (in which we make the ball hit the paddle)
+10.	Pong IV (in which we make another paddle and keep score)
+11.	Pong V (in which we add winning and losing)
+12.	Graphics Basics
+13.	Sound Basics
+14.	Breakout I (in which we make a level)
+15.	Breakout II (in which we make the player and the ball)
+16.	Breakout III (in which we make the bricks and scoring)
+17.	Breakout IV (in which we make pick-ups)
+18.	Breakout V (in which we make power-ups)
+19.	Breakout VI (in which we add winning and losing)
+20.	Breakout VII (in which we add graphics)
+21.	Tetris Challenge
 
 Introduction/Goals
 ==================
